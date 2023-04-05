@@ -1,3 +1,25 @@
-body{
-    background-color: bisque!important;
+body {
+    background-color: bisque !important;
+}
+
+p {
+    text-align: left;
+    margin-left: 250px;
+    margin-right: 250px;
+}
+
+.lista {
+    margin-left: 300px;
+    font-size: 20px;
+}
+
+.img {
+    display: flex;
+    margin-block-end: 30px;
+}
+
+.btn {
+    font-size: 30px;
+    margin-left: 20px;
+    margin-top: 5vw;
 }
